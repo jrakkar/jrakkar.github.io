@@ -1,2 +1,2 @@
 # jrakkar.github.io
-Personal Website
+My Website
